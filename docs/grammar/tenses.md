@@ -14,8 +14,13 @@ Auxiliary, Subject, Infinitive) to help you with word order in questions._*
 - Where **_do_** you **_live_**? **_Does_** the supermarket **_open_** on Sundays?
 ---
 
+- *_We often use the present simple with adverbs of frequency, e.g.
+usually, never, or expressions of frequency, e.g. every day, once a week._*
+- *_Adverbs of frequency go before the main verb and after be._*
+- *_Expressions of frequency usually go at the end of the sentence or verb
+phrase._*
 
-2.
+## Examples:
 - She usually has cereal for breakfast.
 - I'm never late for work.
 - We only eat out about once a month.
